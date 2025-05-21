@@ -204,5 +204,7 @@ Feedstock Maintainers
 =====================
 
 * [@AndrewAnnex](https://github.com/AndrewAnnex/)
+* [@Kelvinrr](https://github.com/Kelvinrr/)
 * [@jessemapel](https://github.com/jessemapel/)
+* [@oleg-alexandrov](https://github.com/oleg-alexandrov/)
 
